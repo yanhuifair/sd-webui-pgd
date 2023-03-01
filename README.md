@@ -6,4 +6,8 @@
 This is an sd-webui script that adds a button called [Paste Generation Data] to sd-webui, which automatically reads the generated data copied from the civitai.com website on the pasteboard, and then automatically sets the parameters in sd-webui.
 
 <img width="1699" alt="Snipaste_2023-03-01_22-58-51" src="https://user-images.githubusercontent.com/8871751/222182749-a89a84e0-7426-4806-94c6-d377b394603d.png">
-<img width="350" alt="Snipaste_2023-03-01_22-55-22" src="https://user-images.githubusercontent.com/8871751/222182684-8ffcda50-6054-4740-b0e3-7fc25a00db32.png">
+
+<img width="1695" alt="pgd" src="https://user-images.githubusercontent.com/8871751/222186163-1f900b7f-76cb-400b-bf9d-432513503dda.png">
+
+### 由于本人不太熟悉 Gradio 和 Python 的开发，在这个版本中只添加了UI按钮，功能还没实现，所以在这里向有能力的人士寻求帮助。谢谢！
+### Since I am not familiar with the development of Gradio and Python, only UI buttons have been added in this version, and the function has not yet been implemented, so I ask competent people for help here. Thank you!
