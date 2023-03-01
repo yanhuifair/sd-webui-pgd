@@ -10,6 +10,6 @@ This is an sd-webui script that adds a button called [Paste Generation Data] to 
 
 <img width="1695" alt="pgd" src="https://user-images.githubusercontent.com/8871751/222186163-1f900b7f-76cb-400b-bf9d-432513503dda.png">
 
-Since I am not familiar with the development of Gradio and Python, only UI buttons have been added in this version, and the function has not yet been implemented, so I ask competent people for help here. Thank you!
+Since I am not familiar with the development of Gradio and Python, only UI buttons have been added in this version, and the function has not yet been implemented, so I ask a capable friend for help here. Thank you!
 
-由于本人不太熟悉 Gradio 和 Python 的开发，在这个版本中只添加了UI按钮，功能还没实现，所以在这里向有能力的人士寻求帮助。谢谢！
+由于本人不太熟悉 Gradio 和 Python 的开发，在这个版本中只添加了UI按钮，功能还没实现，所以在这里向有能力的朋友寻求帮助。谢谢！
